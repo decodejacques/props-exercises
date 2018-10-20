@@ -1,0 +1,23 @@
+.post-container {
+    display:flex;
+    align-items: center;
+    align-content: center;
+    margin:30px;
+    flex-direction: column;
+}
+.post-container > div > img {
+    height: 150px;
+}
+.post-container > div {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 3px;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19)
+}
+.post-container > div > div {
+    margin:20px;
+}

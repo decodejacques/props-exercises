@@ -1,0 +1,1 @@
+A video walkthrough for question 1 is provided. Please follow along to solve question 1. After that, try to solve question 1 by yourself without watching the video. Finally, solve question 2.
